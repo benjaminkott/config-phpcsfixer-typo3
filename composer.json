@@ -1,0 +1,15 @@
+{
+    "name": "bk2k/config-typo3-phpcsfixer",
+    "type": "project-configuration",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Kott",
+            "email": "benjamin.kott@outlook.com"
+        }
+    ],
+    "require": {
+        "bk2k/configuration-installer": "^0.1",
+        "friendsofphp/php-cs-fixer": "^2.16"
+    }
+}
